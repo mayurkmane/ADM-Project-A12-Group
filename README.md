@@ -19,6 +19,7 @@ Output Data.zip -> all outputs are stored in this zip file
 Input Data:
 Input Data.zip -> test and train data stored in this zip file
 
-Link for Video Demo ->
+Link for Video Demo -> https://www.youtube.com/watch?v=8h4spYYnKF4
 
-Link for report ->
+Link for report -> https://www.dropbox.com/s/r5qw4mofej23gbg/Group-A12%20ADM%20Project.pdf?dl=0
+
