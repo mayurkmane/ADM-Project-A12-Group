@@ -1,5 +1,11 @@
 # ADM-Project-A12-Group
-This repo has r code for predictive models along with test and train datasets of bike share demand kaggle competition.
+This repo has r codes for predictive models along with test and train datasets of bike share demand kaggle competition.
+
+#This project was built for academic purpose year 2016.
+Contributors:
+1. Mayur Mane
+2. Rajas Pradhan
+3. Jayesh Mule
 
 R Codes:
 PCA.r -> Principle Component Analysis R Code
